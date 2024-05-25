@@ -7,7 +7,7 @@ public class Main {
 
 
     public Main(){
-
+        //Do Stuff Here
         System.out.println(Arrays.toString(InsertionSort.InsertionSortIntDebug(TestArrays.hundredElements)));
     }
 
